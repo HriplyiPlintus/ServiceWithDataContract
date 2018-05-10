@@ -1,0 +1,7 @@
+C:\Users\mikha\source\del_any_time\WCFServiceWithDataContract\ServiceClient\bin\Debug\ServiceClient.exe.config
+C:\Users\mikha\source\del_any_time\WCFServiceWithDataContract\ServiceClient\bin\Debug\ServiceClient.exe
+C:\Users\mikha\source\del_any_time\WCFServiceWithDataContract\ServiceClient\bin\Debug\ServiceClient.pdb
+C:\Users\mikha\source\del_any_time\WCFServiceWithDataContract\ServiceClient\obj\Debug\ServiceClient.csproj.CoreCompileInputs.cache
+C:\Users\mikha\source\del_any_time\WCFServiceWithDataContract\ServiceClient\obj\Debug\ServiceClient.exe
+C:\Users\mikha\source\del_any_time\WCFServiceWithDataContract\ServiceClient\obj\Debug\ServiceClient.pdb
+C:\Users\mikha\source\del_any_time\WCFServiceWithDataContract\ServiceClient\obj\Debug\ServiceClient.csprojResolveAssemblyReference.cache
