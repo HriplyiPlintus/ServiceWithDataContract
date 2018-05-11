@@ -1,0 +1,11 @@
+C:\Users\Ilia\source\del_any_time\WCFWithDataContract\Service\bin\Debug\Service.dll
+C:\Users\Ilia\source\del_any_time\WCFWithDataContract\Service\bin\Debug\Service.pdb
+C:\Users\Ilia\source\del_any_time\WCFWithDataContract\Service\bin\Debug\Contract.dll
+C:\Users\Ilia\source\del_any_time\WCFWithDataContract\Service\bin\Debug\Domain.dll
+C:\Users\Ilia\source\del_any_time\WCFWithDataContract\Service\bin\Debug\Contract.pdb
+C:\Users\Ilia\source\del_any_time\WCFWithDataContract\Service\bin\Debug\Domain.pdb
+C:\Users\Ilia\source\del_any_time\WCFWithDataContract\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Ilia\source\del_any_time\WCFWithDataContract\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\source\del_any_time\WCFWithDataContract\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\Ilia\source\del_any_time\WCFWithDataContract\Service\obj\Debug\Service.dll
+C:\Users\Ilia\source\del_any_time\WCFWithDataContract\Service\obj\Debug\Service.pdb

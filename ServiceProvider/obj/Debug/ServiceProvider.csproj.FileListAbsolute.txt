@@ -1,7 +1,0 @@
-C:\Users\mikha\source\del_any_time\WCFServiceWithDataContract\ServiceProvider\bin\Debug\ServiceProvider.exe.config
-C:\Users\mikha\source\del_any_time\WCFServiceWithDataContract\ServiceProvider\bin\Debug\ServiceProvider.exe
-C:\Users\mikha\source\del_any_time\WCFServiceWithDataContract\ServiceProvider\bin\Debug\ServiceProvider.pdb
-C:\Users\mikha\source\del_any_time\WCFServiceWithDataContract\ServiceProvider\obj\Debug\ServiceProvider.csprojResolveAssemblyReference.cache
-C:\Users\mikha\source\del_any_time\WCFServiceWithDataContract\ServiceProvider\obj\Debug\ServiceProvider.csproj.CoreCompileInputs.cache
-C:\Users\mikha\source\del_any_time\WCFServiceWithDataContract\ServiceProvider\obj\Debug\ServiceProvider.exe
-C:\Users\mikha\source\del_any_time\WCFServiceWithDataContract\ServiceProvider\obj\Debug\ServiceProvider.pdb

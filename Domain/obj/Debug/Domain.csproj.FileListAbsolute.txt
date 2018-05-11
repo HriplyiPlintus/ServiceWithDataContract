@@ -4,3 +4,9 @@ C:\Users\mikha\source\del_any_time\WCFServiceWithDataContract\Domain\obj\Debug\D
 C:\Users\mikha\source\del_any_time\WCFServiceWithDataContract\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
 C:\Users\mikha\source\del_any_time\WCFServiceWithDataContract\Domain\obj\Debug\Domain.dll
 C:\Users\mikha\source\del_any_time\WCFServiceWithDataContract\Domain\obj\Debug\Domain.pdb
+C:\Users\Ilia\source\del_any_time\WCFWithDataContract\Domain\bin\Debug\Domain.dll
+C:\Users\Ilia\source\del_any_time\WCFWithDataContract\Domain\bin\Debug\Domain.pdb
+C:\Users\Ilia\source\del_any_time\WCFWithDataContract\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Ilia\source\del_any_time\WCFWithDataContract\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\source\del_any_time\WCFWithDataContract\Domain\obj\Debug\Domain.dll
+C:\Users\Ilia\source\del_any_time\WCFWithDataContract\Domain\obj\Debug\Domain.pdb

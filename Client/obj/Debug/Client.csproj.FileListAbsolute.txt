@@ -1,0 +1,7 @@
+C:\Users\Ilia\source\del_any_time\WCFWithDataContract\Client\bin\Debug\Client.exe.config
+C:\Users\Ilia\source\del_any_time\WCFWithDataContract\Client\bin\Debug\Client.exe
+C:\Users\Ilia\source\del_any_time\WCFWithDataContract\Client\bin\Debug\Client.pdb
+C:\Users\Ilia\source\del_any_time\WCFWithDataContract\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Ilia\source\del_any_time\WCFWithDataContract\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Ilia\source\del_any_time\WCFWithDataContract\Client\obj\Debug\Client.exe
+C:\Users\Ilia\source\del_any_time\WCFWithDataContract\Client\obj\Debug\Client.pdb
